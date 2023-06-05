@@ -33,7 +33,7 @@ setTimeout(()=>{
                                         h1.innerHTML='1'
 
                                         setTimeout(()=>{
-                                            h1.innerHTML=''
+                                            h1.innerHTML='Happy Independence Day'
                                         
                                         },0)
 
